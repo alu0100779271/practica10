@@ -1,0 +1,97 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+
+\begin{document}
+
+\title{Número PI}
+\author{Aidé Alicia Cordobés Betancor \\
+       Técnicas Experimentales~\footnote{Artículo sobre el número PI}
+       }
+\date{09/04/2014}
+\maketitle
+
+\begin{abstract}
+$pi$ (pi) es la relación entre la longitud
+de una circunferencia y su diámetro,
+en geometría euclidiana. Es un número
+irracional y una de las constantes matemáticas
+más importantes. Se emplea frecuentemente en
+matemáticas, física e ingeniería.
+El valor numérico de $pi$, truncado a sus primeras
+cifras, es el siguiente:
+    
+    pi = 3,14159265358979323846 
+
+    \end{abstract}
+\begin{figure}[t]
+\includegraphics[escale=0.1]{imagen1.eps}
+\caption{Ejemplo de gráfica}
+\label{fig1}
+\end{figure}
+\section{Un poco de historia}
+La búsqueda del mayor número de decimales
+del número $pi$ ha supuesto un esfuerzo constante
+de numerosos científicos a lo largo de la historia.
+Algunas aproximaciones históricas de pi son las
+siguientes.
+\subsection{Egipto}
+El valor aproximado de pi en las antiguas
+culturas se remonta a la época del escriba
+egipcio Ahmes en el año 1800 a. C.,
+descrito en el papiro Rhind,3 donde se emplea
+un valor aproximado de pi afirmando que el área
+de un círculo es similar a la de un cuadrado
+cuyo lado es igual al diámetro del círculo
+disminuido en 1/9; es decir, igual a 8/9 del
+diámetro.
+\subsection{Matemática China}
+El cálculo de pi fue una atracción para los
+matemáticos expertos de todas las culturas.
+Hacia 120, el astrónomo chino Zhang Heng (78-139)
+fue uno de los primeros en usar la aproximación 
+raíz de 10, que dedujo de la razón entre el volumen
+de un cubo y la respectiva esfera inscrita.
+Un siglo después, el astrónomo Wang Fang lo
+estimó en 142/45 (3,155555), aunque se desconoce
+el método empleado.
+\section{Características matemáticas}
+\subsection{Definiciones}
+$pi$ es la relación entre la longitud de una
+circunferencia y su diámetro.
+Por tanto, también $pi$ es:
+El área de un círculo unitario
+(de radio unidad del plano euclídeo).
+El menor número real x positivo tal que
+sin(0)=0
+
+
+En la figura \ref{fig1} se puede ver una
+imagen del número PI.
+
+En la figura \ref{table1} se muestra el
+número de chicos y chicas que hay en dos
+clases distintas.
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|c|c|c|}
+\hline
+Clase & Chicos & Chicas & Total \\ \hline
+Clase 1 & 30 & 25 & 55 \\ \hline
+Clase 2 & 15 & 20 & 35 \\ \hline 
+\end{tabular}
+\caption{Mi tabla}
+\label{table1}
+\end{center}
+\end{table}
+
+\begin{thebibliography}{00}
+\bibitem{Lam:86}
+http://es.wikipedia.org/wiki/N%C3%BAmero_%CF%80
+\bibitem{Lam:86}
+http://centros5.pntic.mec.es/ies.de.bullas/dp/matema/conocer/numpi.htm
+\end{thebibliography}
+
+\end{document}
+
